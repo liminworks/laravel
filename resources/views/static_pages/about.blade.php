@@ -1,6 +1,5 @@
-<?php
-/**
- *author:limin
- *creatime:2018/8/8 21:31
- *description:
- */
+@extends('layouts.default')
+@section('title', '关于')
+@section('content')
+    <h1>关于页</h1>
+@stop
